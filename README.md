@@ -1,8 +1,8 @@
 <h1>Bruno Macarini Fernandes</h1>
 
-A copywriter who wants to become a <b>developer</b>. 💻 </br>
+A copywriter who wants to become a <b>developer</b> 💻 </br>
 </br>
-<b>Rocketseat GoStack</b> bootcamp participant. 🚀 </br>
+<b>Rocketseat GoStack</b> bootcamp participant 🚀 </br>
 </br>
 Technologies: <b>Node.js</b>, <b>ReactJS</b> and <b>React Native</b></br>
 </br>

@@ -1,18 +1,27 @@
-<h1>Bruno Macarini Fernandes</h1>
+<h1>Bruno Fernandes</h1>
 
-<b>Rocketseat GoStack</b> bootcamp participant 🚀 </br>
+<b>Front-end</b> developer.
 </br>
-Technologies: <b>Node.js</b>, <b>ReactJS</b> and <b>React Native</b></br>
+
+<div class="technologies">
+  <p>Technologies:</p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-logo?style=flat&logo=React&logoColor=%23000000&color=%2361DAFB"></br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/React_Native-000000?style=flat&logo=React&logoColor=%23000000&labelColor=%2361DAFB&color=%2361DAFB"></br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=JavaScript&logoColor=%23000000&labelColor=%23F7DF1E&color=%23F7DF1E"></br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-000000?style=flat&logo=CSS3&logoColor=%23000000&labelColor=%231572B6&color=%231572B6"></br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=HTML5&logoColor=%23000000&labelColor=%23e34f26&color=%23e34f26">
+</div>
 </br>
+<b>Rocketseat GoStack</b> bootcamp participant. 🚀 </br>
 </br>
-<b>Want to contact me?</b>
+<p>Want to contact me?</p>
 <div class="social-icons">
   <div>
-    <a href="https://www.linkedin.com/in/brunomacarini/">
-      <img src="https://camo.githubusercontent.com/0a994edb1fe71b363cef6a482189b23e1ae23a866c514a50a68f9482abdf52ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6f6d6172696f736f75746f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/brunomacarini/" style="max-width:100%;">
+    <a href="https://www.linkedin.com/in/brunomacarini/?locale=en_US">
+      <img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-url?style=flat&logo=linkedin&logoColor=%23FFFFFF&labelColor=%230A66C2&color=%230A66C2&link=%3Ahttps%3A%2F%2Fwww.linkedin.com%2Fin%2Fbrunomacarini%2F%3Flocale%3Den_US">
     </a>
     <a href="mailto:bmacarini@gmail.com">
-      <img src="https://camo.githubusercontent.com/e37b9e6c0703b25856c335bcbcf79bd5240e42af3d876515cc56621117ac5cf9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d7265643f7374796c653d666c61742d737175617265266c6f676f3d676d61696c266c6f676f436f6c6f723d776869746526636f6c6f723d443134383336266c696e6b3d6d61696c746f3a626d61636172696e6940676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&color=D14836&link=mailto:bmacarini@gmail.com" style="max-width:100%;">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-contact?style=flat&logo=gmail&logoColor=%23FFFFFF&labelColor=%23EA4335&color=%23EA4335&link=%3A%20bmacarini%40gmail.com">
     </a>
   </div>
 </div>
